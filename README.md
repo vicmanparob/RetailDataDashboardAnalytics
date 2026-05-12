@@ -3,7 +3,7 @@
 Retail Data Analytics dashboard in LOOKER STUDIO
 **Live Dashboard:** [View on Looker Studio](https://datastudio.google.com/reporting/1dc74e6f-5f8c-4ad8-b72b-32bcc0d29530)
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](LookerDashboard.PNG)
 
 ---
 
